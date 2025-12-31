@@ -75,3 +75,8 @@ function greet(name) {
   return "Hello, " + name + "!";
 }   
 console.log(greet("Alice")); // Outputs: Hello, Alice!
+
+function add(a, b) {
+  return a + b;
+}
+console.log(add(3, 4)); // Outputs: 7`
