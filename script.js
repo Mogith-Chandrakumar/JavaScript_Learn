@@ -80,3 +80,8 @@ function add(a, b) {
   return a + b;
 }
 console.log(add(3, 4)); // Outputs: 7`
+
+// Function with no parameters:
+function sayHello() {
+  return "Hello, World!";
+} 
