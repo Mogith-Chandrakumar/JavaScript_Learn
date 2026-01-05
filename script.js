@@ -75,6 +75,7 @@ function greet(name) {
   return "Hello, " + name + "!";
 }   
 console.log(greet("Alice")); // Outputs: Hello, Alice!
+<<<<<<< HEAD
 
 function add(a, b) {
   return a + b;
@@ -85,3 +86,5 @@ console.log(add(3, 4)); // Outputs: 7`
 function sayHello() {
   return "Hello, World!";
 } 
+=======
+>>>>>>> eb90f3aeee0608d7d9171581a1381fefca74b207
