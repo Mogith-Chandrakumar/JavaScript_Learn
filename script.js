@@ -90,7 +90,7 @@ console.log(sayHello()); // Outputs: Hello, World!
 
 // Function with multiple parameters:
 function add (a, b) {
-  return a + b ;
+  return a + b ;//
   
 }
 
