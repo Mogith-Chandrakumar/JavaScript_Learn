@@ -90,3 +90,9 @@ function sayHello() {
 >>>>>>> eb90f3aeee0608d7d9171581a1381fefca74b207
 
 console.log(sayHello()); // Outputs: Hello, World!
+
+// Function with multiple parameters:
+function add (a, b) {
+  return a + b ;
+  
+}
