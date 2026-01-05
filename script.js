@@ -94,3 +94,4 @@ function add (a, b) {
   
 }
 
+console.log(add(3,4)); // out put : 7
