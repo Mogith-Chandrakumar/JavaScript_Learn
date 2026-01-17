@@ -96,3 +96,8 @@ function add (a, b) {
 
 console.log(add(3,4)); // out put : 7
 // file upload
+
+// Function with no parameters:
+function sayHello() {
+  return "Hello, World!";
+}
