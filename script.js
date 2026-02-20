@@ -103,3 +103,6 @@ function sayHello() {
 }
 
 // check
+function sayHello() {
+  return  "Hi";
+}
