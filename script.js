@@ -106,3 +106,8 @@ function sayHello() {
 function sayHello() {
   return  "Hi";
 }
+
+//cheking
+funcion say () {
+ return "Integer";
+}
